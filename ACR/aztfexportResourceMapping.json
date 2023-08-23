@@ -1,0 +1,27 @@
+{
+	"/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup": {
+		"resource_id": "/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr": {
+		"resource_id": "/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr",
+		"resource_type": "azurerm_container_registry",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr/scopeMaps/_repositories_admin": {
+		"resource_id": "/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr/scopeMaps/_repositories_admin",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr/scopeMaps/_repositories_pull": {
+		"resource_id": "/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr/scopeMaps/_repositories_pull",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr/scopeMaps/_repositories_push": {
+		"resource_id": "/subscriptions/8c1a7222-4b24-4004-a5cd-3b8984ef5416/resourceGroups/ACRResourceGroup/providers/Microsoft.ContainerRegistry/registries/rolfeiacr/scopeMaps/_repositories_push",
+		"resource_type": "azurerm_container_registry_scope_map",
+		"resource_name": "res-4"
+	}
+}
