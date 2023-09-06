@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T14:52:24.538Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="V5FTfSGJkQaLmRbmVwoq" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T15:00:10.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="kIPKP30IclM0iRvHjAbk" version="21.7.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1434" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -25,11 +25,11 @@
         <mxCell id="2027" value="AKS" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="590" y="120" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2043" value="Azure Container registry" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.dropbox_code_source;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
+        <mxCell id="2043" value="Azure Container &lt;br&gt;registry" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.dropbox_code_source;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="395" y="210" width="50" height="43.75" as="geometry" />
         </mxCell>
-        <mxCell id="2044" value="Repositories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="60" y="620" width="120" height="20" as="geometry" />
+        <mxCell id="2044" value="GitHub Repo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
+          <mxGeometry x="50.25" y="590" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2047" value="Local Image to ACR/AKS" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontFamily=Helvetica;fontStyle=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="1060" height="50" as="geometry" />
@@ -67,7 +67,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmhKZxrPv0fTTnZKHbZ4-2088" value="AKS cluster" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
+        <mxCell id="OmhKZxrPv0fTTnZKHbZ4-2088" value="AKS cluster" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/mscae/Kubernetes.svg;labelBackgroundColor=none;fontColor=#0056d6;" vertex="1" parent="1">
           <mxGeometry x="675" y="205.75" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OmhKZxrPv0fTTnZKHbZ4-2090" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.bitbucket_code_source;" vertex="1" parent="1">
@@ -83,7 +83,7 @@
           <mxGeometry x="40" y="414" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OmhKZxrPv0fTTnZKHbZ4-2099" value="Local container &lt;br&gt;registry" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.dropbox_code_source;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
-          <mxGeometry x="170" y="210" width="50" height="47.5" as="geometry" />
+          <mxGeometry x="162" y="210" width="50" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
